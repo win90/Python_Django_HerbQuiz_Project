@@ -3,10 +3,6 @@
 You can visit the deployed App page :https://murmuring-lowlands-42384.herokuapp.com/
 
 
-
-![Kickstart Coding Logo](./apps/core/static/images/kickstart_coding_logo.png)
-
-
 # Kickstart Coding: Django Project Starter
 
 This is an example start project for [Kickstart Coding](http://kickstartcoding.com/)
